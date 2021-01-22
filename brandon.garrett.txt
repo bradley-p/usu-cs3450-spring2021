@@ -1,0 +1,3 @@
+Brandon Garrett
+My favorite environment is IDLE.  It is the very basic IDE that comes with python, and I like it because it is so simple.
+My favorite language is Python, it was the first language I learnt and very practical.
