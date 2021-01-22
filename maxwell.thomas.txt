@@ -1,3 +1,1 @@
-Maxwell Thomas
-Visual Studios
-C++
+
