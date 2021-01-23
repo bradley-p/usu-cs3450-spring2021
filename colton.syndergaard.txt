@@ -1,0 +1,3 @@
+Name: Colton Syndergaard
+Favorite Coding Environment: PyCharm/IntelliJ
+Favorite Language: Python/R
