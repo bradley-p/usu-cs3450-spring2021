@@ -1,0 +1,3 @@
+Sander Burton
+Fav coding environment: Sublime text
+Fav language: Python
